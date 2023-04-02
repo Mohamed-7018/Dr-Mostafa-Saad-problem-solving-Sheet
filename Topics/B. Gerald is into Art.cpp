@@ -1,12 +1,4 @@
-/**
- *    author:  I_See_PC - Mohamed Samir Salem
- *    created at:2023-01-03  00:07:10+02:00
- *    Samir's 1st law : خلاص هانت كلها كام سنة و نموت فمش فارقة كتير
- *    Samir's 2nd law : ايه فايدة البروبلم سولفنج و انت مش عارف تحل مشاكلك الشخصية
- *    Samir's 3rd law : عامل ايه ..=بحاول ابقا كويس-
- *    Samir's 4th law : محدش مهتم
- *    Samir's 5th law :depression is not a side effect of illness it's a side effect of dying✨
- **/
+
 
 #include <bits/stdc++.h>
 // #define  LOCAL
@@ -328,67 +320,29 @@ void Graph ::DFS(int v)
 // --------------------------------------------------------------------------- //
 // --------------------- Main Function (solve )------------------------------- //
 // -------------------------------------------------------------------------- //
-void solve()
+
+bool fit(int a, int b, int c, int d)
 {
-    ll n, m;
-    cin >> n >> m;
+    if (a <= c && b <= d)
+        return true;
+    return false;
+}
 
-    vl xx(n);
+void solve(){
+    ll a, b,c, d, e, f;
+    cin >> a >>b >> c >> d >> e >> f;
 
-    ll ans = n;
-    F(i, 0, m)
-    {
-        ll x, y;
-        cin >> x >> y;
-        if (x > y)
-        {
-            ll temp = x;
-            x = y;
-            y = temp;
-        }
-        if (xx[x] == 0)
-            ans--;
-        xx[x]++;
-    }
-
-    ll q;
-    cin >> q;
-    while (q--)
-    {
-        ll o, u, v;
-        cin >> o;
-        if (o == 1)
-        {
-            cin >> u >> v;
-
-            if (u > v)
-            {
-                ll temp = u;
-                u = v;
-                v = temp;
-            }
-            if (xx[u] == 0)
-                ans--;
-            xx[u]++;
-        }
-        if (o == 2)
-        {
-            cin >> u >> v;
-            if (u > v)
-            {
-                ll temp = u;
-                u = v;
-                v = temp;
-            }
-            if (xx[u] == 0)
-                ans--;
-            xx[u]--;
-        }
-        if (o == 3)
-        {
-            cout << ans << endl;
-        }
-    }
+    if (fit(c, d, a, b) && (fit(e, f, a - c, b) || fit(e, f, a, b - d) || fit(f, e, a - c, b) || fit(f, e, a, b - d)))
+        PYES;
+    else if (fit(d, c, a, b) && (fit(e, f, a - d, b) || fit(e, f, a, b - c) || fit(f, e, a - d, b) || fit(f, e, a, b - c)))
+        PYES;
+    else if (fit(c, d, b, a) && (fit(e, f, b - d, a) || fit(e, f, b, a - c) || fit(f, e, b - d, a) || fit(f, e, b, a - c)))
+        PYES;
+    else if (fit(d, c, b, a) && (fit(e, f, b - d, a) || fit(e, f, b, a - c) || fit(f, e, b - d, a) || fit(f, e, b, a - c)))
+        PYES;
+    else
+        PNO;
+ 
 }
 
 int main()
@@ -402,7 +356,6 @@ int main()
 
     return 0;
 }
-
 
 /*
 g++ -o hello hello.cpp

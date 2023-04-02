@@ -1,12 +1,3 @@
-/**
- *    author:  I_See_PC - Mohamed Samir Salem
- *    created at:2023-01-03  00:07:10+02:00
- *    Samir's 1st law : خلاص هانت كلها كام سنة و نموت فمش فارقة كتير
- *    Samir's 2nd law : ايه فايدة البروبلم سولفنج و انت مش عارف تحل مشاكلك الشخصية
- *    Samir's 3rd law : عامل ايه ..=بحاول ابقا كويس-
- *    Samir's 4th law : محدش مهتم
- *    Samir's 5th law :depression is not a side effect of illness it's a side effect of dying✨
-**/
 
 #include <bits/stdc++.h>
 //#define  LOCAL
