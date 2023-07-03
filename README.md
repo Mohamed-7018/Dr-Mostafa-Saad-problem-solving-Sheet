@@ -1,10 +1,33 @@
-﻿# Problem-Solving-Sheet-Solutions
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="40" height="30"  /> Dr Mostafa Saad [problem solving] Sheet<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1>
 
-## Description 
-The repo is a solutions to the problems in Dr Mostafa Saad sheet, I sterted to solve the sheet because I saw the good feedbacks from the people who solved this sheet.
+
+  <img  src="https://media0.giphy.com/media/Ztzt8zhmmpVPUiSNMX/200.gif" align="left" width="270" hspace="0" vspace="10">
 
 
-## About the sheet 
+<!--STARTS_HERE_QUOTE_README-->
+
+“ Programming is boring”
+Think of it, you just keep writing a series of code to repeat the same thing over and over. So learning new programming languages is not the target. We don’t say you shouldn’t learn a new programming language but have a purpose.
+
+“ Programing is just a tool”
+Think of it, programming is like a pencil. You can use a pencil in writing a story, drawing beautiful pictures, Sketching art pieces and so many other wonderful things, it can only be limited by your imagination.
+
+Same like pencil, programming is just code. You can use it to use many wonderful things by the tool, it can only be limited by your imagination. So “ Don’t be a programmer be a problem solver”
+<!--ENDS_HERE_QUOTE_README-->
+<br/></br>
+
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />Description<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1> 
+The repo is a solutions to the problems in Dr Mostafa Saad sheet, I started to solve the sheet because I saw the good feedbacks from the people who solved this sheet.
+
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> About the sheet<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1>
 This google sheet is created by Dr Mostafa Saad Ibrahim. Overall ~950 problems for newcomers to problem solving.
 
 The goal of this sheet is to enhance algorthmic probem solving skills for both programming competitions and interviws preparations
@@ -19,113 +42,47 @@ To understand the sheet, watch these videos:
 - Video Introducing roadmap (Arabic) - to min 18 ONLY	(https://www.youtube.com/watch?v=DZ6YTtILCE8)		
 - New Video explaining the sheet		(https://www.youtube.com/watch?v=c3lmvYBxgwE)	
 
-## My Contacts 
-If you have any question about the repo or the sheet don't feel shame to contact with me .. and these are my contacts :
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Codeforces<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1>
 
-- LinkedIn
-
-https://www.linkedin.com/in/mohamed-samir-9b0b2a203
-
-- Facebook:
-
-https://www.facebook.com/mohamed.almasri.5686/
+Codeforces is a website that hosts competitive programming contests.It is maintained by a group of competitive programmers from ITMO University led by Mikhail Mirzayanov.Since 2013, Codeforces claims to surpass Topcoder in terms of active contestants. As of 2018, it has over 600,000 registered users. Codeforces along with other similar websites are used by top sport programmers like Gennady Korotkevich, Petr Mitrichev, Benjamin Qi and Makoto Soejima, and by other programmers interested in furthering their careers.
 
 
-- Instagram:
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Reach me at <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1>
 
-https://www.instagram.com/mohamed_samir_7018/
+<a href="https://www.facebook.com/mohamed.almasri.5686/">
+  <img align="left" alt="Mohamed-7018 | Fcebook" width="24px" src="https://github.com/Mohamed-7018/Mohamed-7018/blob/main/assets/facebook.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-samir-9b0b2a203">
+  <img align="left" alt="Mohamed-7018 | LinkedIn" width="24px" src="https://github.com/Mohamed-7018/Mohamed-7018/blob/main/assets/linkedin.svg"/>
+</a>
+<a href="mailto:mohamedkhalilalmasri@gmail.com">
+  <img align="left" alt="Mohamed-7018 Esawy | Gmail" width="24px" src="https://user-images.githubusercontent.com/80456446/140469108-1a340307-b696-4f83-bd31-27f632bca393.png" />
+</a>
+<a href="https://www.hackerrank.com/mohamedkhalilal1">
+ <img align="left" alt="HackerRank" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
+</a>
+<a href="https://www.instagram.com/mohamed_samir_7018/">
+ <img align="left" alt="HackerRank" width="34px" src="https://user-images.githubusercontent.com/80456446/140470099-0233261b-373f-43f3-80e4-6be8ff9c9438.png"/>
+</a>
+  <br/>  <br/>
+  
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />  Just follow☝️ me and Star⭐ my repository<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1>
+  
+- The repo will be updated dialy so follow me for more problems solutions 
+- Just Make star to my repo and following me in github and different Social Media would help me to continue.
 
-
-- Phone number:
-
-+2 01006074955
-
-
-
-
-## Encourage your knowldege 
-You can also see my other apps ahivh will help you tho study different engineering tracks
-
-1- IEE App on google Play store
-
-It Will Provide You With All The Needed Resources To Follow Your Passion And Start Now 💙
-It Contains:
-
-- Most Of Engineering Technical And Nontechnical Tracks And Resources
-- Updated Tasks For All The Committees
-- Direct Chats Within The Application
-- IEEE BUSB News Within The App
-- Direct Contact With All The Mentors
-And a Lot More Features To Be Reviled ... ❤️❤️❤️
-You Can Download The App Now From Google play:
-
-https://play.google.com/store/apps/details...
-
-https://user-images.githubusercontent.com/80456446/124984858-044fdd80-e03a-11eb-908b-e05f4ca8edd6.mp4
-
-
-
-2- Pixels App 
-
-“Pixels Egypt” mobile app is considered an important and easy way to stay in touch with us.
-
-The app will help you to:
-
-- Browse different online courses and resources in different fields like Computer, Communication, Power, and Mechanical Engineering.
-- You will find courses, videos, books and more.
-- Follow our news.
-- Share our knowledge.
-- Be one of the family.
-
-Get it now on Google Play:
-
-https://play.google.com/store/apps/details
-
-![187960930_3955292401216930_6844533153445761662_n](https://user-images.githubusercontent.com/80456446/124113684-00392400-da6c-11eb-8779-cea0193eefb6.jpg)
-
-
-
-3- Samir Code Hanbook 
-
-The application Idea is to collect very important technologies which may help any one interested in studying the Computer Science and Programming track. The application Sahres different tracks and it's now in the development time and this is the first version and it consists of the following technologies :
-
-1- The algorithm and data structure codes in C++
-
-2- Three sortuing algorithm visualizer 
-
-3- Flutter kit which contains (Widgets catalog - UI Kit - Github Projects)
-
-4-The Problem solving guide with solutions (video - code in C++, java and python )
-
-The application iscompletely build with flutter framework and it is only target is to help the students so it is completely free and any one can contact with me any time to get help in the code.
-
-Screenshot              |  Screenshot
-:-------------------------:|:-------------------------:
-![Screenshot_1632245863](https://user-images.githubusercontent.com/80456446/134220806-a260c80a-f44a-42ed-afbd-d8bd16a4751d.png) | ![Screenshot_1632245897](https://user-images.githubusercontent.com/80456446/134220800-4da3fd99-1c6a-421d-be0e-e4c415f2bb13.png)
-
-Screenshot           | Screenshot
-:-------------------------:|:-------------------------:
-![Screenshot_1632245870](https://user-images.githubusercontent.com/80456446/134220813-a596d7e9-a919-44ca-8352-a557f0e6272a.png) | ![Screenshot_1632245878](https://user-images.githubusercontent.com/80456446/134220819-668b41f8-bf58-450a-82af-71cbe21288bb.png)
-
-Screenshot             |  Screenshot
-:-------------------------:|:-------------------------:
-![Screenshot_1632245884](https://user-images.githubusercontent.com/80456446/134220824-9a432262-fe74-4e50-8fc7-af10fc86b883.png) |![Screenshot_1632246677](https://user-images.githubusercontent.com/80456446/134222184-a8c2e008-fb90-4ee6-8df2-e201e5d3d1cb.png)
-
-
-- Download the apk
-https://drive.google.com/drive/folders/1sGvmKJrpsEg3LESEuu9K9VKq_LSPZ086
-
-![fall-guys-android](https://user-images.githubusercontent.com/80456446/134222638-f4c90baf-23bc-45e3-8b8f-4028f7ec1a1f.png)
-
-you can see the app details from this repo https://github.com/Mohamed-7018/Samir-Code-HandBook
-
-
-
-## Just follow☝️ me and Star⭐ my repository 
-Make star to my repo and following me in github and different Social Media would help me to continue.
 ![1_TcdcC2gXNwtnLzsp6GXe1g](https://user-images.githubusercontent.com/80456446/134283879-11c9a3ae-65e4-416e-b3e6-dd8137b991e8.png)
 
 
-## License & Accesability
+  <br/>  <br/>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> License & Accesability<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  </h1>
 
 ![1200px-Public_Domain_Mark_button svg](https://user-images.githubusercontent.com/80456446/134284403-2e2f001c-0a9e-46f1-8ab4-fb6618c126fc.png)
